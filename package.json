@@ -1,0 +1,19 @@
+{
+    "name": "tweet-discord-bot",
+    "version": "1.0.0",
+    "description": "diy tweet bot for discord, cuz my unemployed ass needs an excuse to program shit!",
+    "main": "src/index.ts",
+
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.5.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.24.0"
+    }
+}
